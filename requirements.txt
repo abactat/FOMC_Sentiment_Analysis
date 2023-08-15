@@ -1,10 +1,10 @@
-# local package
--e .
-
-# external requirements
-click
-Sphinx
-coverage
-awscli
-flake8
-python-dotenv>=0.5.1
+python == 3.10.9
+numpy == 1.22.1
+pandas == 1.5.3
+requests == 2.31.0
+FedTools == 0.0.7
+nltk == 3.7
+fredapi == 0.5.0
+scikit-learn == 1.2.1
+csv == 1.0
+windows == 22H2
